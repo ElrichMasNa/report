@@ -106,14 +106,19 @@ La solución propuesta por **Smart Stay** responde directamente a estas limitaci
 ### 1.2.2.1 Lean UX Problem Statements. 
  -**Problema:** Los recepcionisas del hotel pierden demasiado tiempo en procesos manuales de check-in y check-out, generando filas y errores en el registro de huéspedes. 
   **Probelam Statament:** Los recepcionistas se sienten frustrados por la lentitud y complejidad de los procesos manuales de registro, lo que afecta la experiencia inicial de los huéspedes y la eficiencia del personal.
+  
  -**Problema:** Los administradores carecen de visibilidad en tiempo real de la ocupación de habitaciones, lo que provoca pérdidas de ingresos por baja optimización o sobreventas.
   **Problema Statament:** Los administradores enfrentan dificultades para controlar y planificar la ocupación de habitaciones, lo que genera ineficiencias en la gestión y reduce la rentabilidad del hotel.
+  
  -**Problema:** Los hoteles no cuentan con un control adecuado del consumo de energía y agua, aumentando sus costos operativos y afectando objetivos de sostenibilidad. 
   **Problem Statament:** Los gerentes de hotel luchan por monitorear y reducir el consumo de recursos, lo que provoca gastos innecesarios y dificulta cumplir con politicas sostenibles. 
+  
  -**Problema:** Los huéspedes perciben que los servicios ofrecidos son genéricos y poco adaptados a sus preferencias personales.
-  **Problema Statament:** Los huéspedes sienten que sus experiencias en el hotel son impersonales y estandarizadas, lo que disminuye su satisfacción y reduce la posibilidad de fidelización. 
+  **Problema Statament:** Los huéspedes sienten que sus experiencias en el hotel son impersonales y estandarizadas, lo que disminuye su satisfacción y reduce la posibilidad de fidelización.
+  
  -**Problema:** La comunicación entre las áreas de limpieza, mantenimiento y room service es lenta y poco coordinada, impactando la calidad del servicio.
-  **Problema Statament:** El personal operativo del hotel enfrenta dificultades para coordinar tareas en tiempo real, lo que ocasiona retrasos, errores en el servicio y una mala experiencia para el huésped. 
+  **Problema Statament:** El personal operativo del hotel enfrenta dificultades para coordinar tareas en tiempo real, lo que ocasiona retrasos, errores en el servicio y una mala experiencia para el huésped.
+  
 ### 1.2.2.1 Lean UX Assumptions.
 ### Lean UX Hypothesis Statements.
 ### Lean UX Canvas.
